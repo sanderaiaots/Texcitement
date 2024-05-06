@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlPerf", "SqlPerf\SqlPerf.csproj", "{25538E72-5545-4811-99EE-A21B582E2FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadCodeTests", "BadCodeTests\BadCodeTests.csproj", "{6AF0C244-48C9-4C30-9AA9-816928DFE654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25538E72-5545-4811-99EE-A21B582E2FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25538E72-5545-4811-99EE-A21B582E2FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25538E72-5545-4811-99EE-A21B582E2FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25538E72-5545-4811-99EE-A21B582E2FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF0C244-48C9-4C30-9AA9-816928DFE654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF0C244-48C9-4C30-9AA9-816928DFE654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF0C244-48C9-4C30-9AA9-816928DFE654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF0C244-48C9-4C30-9AA9-816928DFE654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
