@@ -29,6 +29,10 @@ public class MyPlanCalculator {
 		return int.Parse(MyConfDb.GetSetting("DaysAhead"));
 	}
 
+	/// <summary>
+	/// Lets focus here. What is wrong here???
+	/// </summary>
+	/// <returns></returns>
 	public List<MyWorkPlan> CaculatePlan() {
 		List<MyWorkPlan> plan = new List<MyWorkPlan>();
 		for (int i = 0; i < GetDaysAhead(); i++) {
